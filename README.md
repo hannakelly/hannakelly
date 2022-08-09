@@ -2,7 +2,7 @@
 
 
 - 🔭 A procura de uma oportunidade
-- 🌱 Estou cursando Análise e desenvolvimento de sistemas 
+- 🌱 Estou cursando Engenharia de Software 
 - 😄 Pronouns: Ela/Dela
 ##
 
