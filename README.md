@@ -1,9 +1,9 @@
-### Olá👋
+### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋
 
 
-- 🔭 A procura de uma oportunidade
+- 🔭 A procura de uma primeira oportunidade na área de TI
 - 🌱 Estou cursando Engenharia de Software 
-- 😄 Pronouns: Ela/Dela
+
 ##
 
 <div align="center">
