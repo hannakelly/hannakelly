@@ -16,9 +16,7 @@
 
 </div>
 
-
-  
-<div style="display: inline_block"><br>
+<div ><br>
 <a align="left" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho25.gif></a><br>Gifs-animados.net
   <img align="right" alt="hanna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="hanna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
