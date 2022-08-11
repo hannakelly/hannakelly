@@ -3,6 +3,7 @@
 
 - 🔭 A procura de uma primeira oportunidade na área de TI
 - 🌱 Estou cursando Engenharia de Software 
+- FUTURAMENTE FULLSTACK :D
 
 ##
 
