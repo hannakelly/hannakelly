@@ -15,10 +15,9 @@
   
 
 </div>
-
+<a align="left" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho25.gif></a>
 <div align= "center" display = "online-block" ><br>
-<a align="left" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho25.gif></a><br>Gifs-animados.net
-  <img align="center" alt="hanna-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="hanna-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="hanna-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="hanna-React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="hanna-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
