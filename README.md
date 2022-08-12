@@ -8,7 +8,7 @@
 <div align="center">
 <a align="center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra06.gif></a>
 </div>
-##
+
 
 <div align="center">
   <a align="left" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho05.gif></a>
