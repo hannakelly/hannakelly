@@ -14,8 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannakelly&layout=compact&langs_count=7&theme=synthwave"/> 
   
   <a href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho71.gif></a>
-</div>
-  
+
+    <div>
   <img align= "center" alt="hanna-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align= "center"  alt="hanna-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align= "center"  alt="hanna-React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
