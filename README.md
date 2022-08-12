@@ -1,9 +1,9 @@
 ### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋
 
 
-- 🔭 A procura de uma primeira oportunidade na área de TI
-- 🌱 Estou cursando Engenharia de Software 
-- FUTURAMENTE FULLSTACK :D
+                                     - 🔭 A procura de uma primeira oportunidade na área de TI
+                                     - 🌱 Estou cursando Engenharia de Software 
+                                     - FUTURAMENTE FULLSTACK :D
 
 <div align="center">
 <a align="center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra06.gif></a>
