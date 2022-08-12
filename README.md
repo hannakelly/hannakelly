@@ -6,7 +6,7 @@
 - FUTURAMENTE FULLSTACK :D
 
 <div align="center">
-<a align="center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra07.gif></a>
+<a align="center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra06.gif></a>
 </div>
 ##
 
