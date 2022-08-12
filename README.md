@@ -5,6 +5,8 @@
 - 🌱 Estou cursando Engenharia de Software 
 - FUTURAMENTE FULLSTACK :D
 
+<a align="center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra07.gif></a>
+
 ##
 
 <div align="center">
