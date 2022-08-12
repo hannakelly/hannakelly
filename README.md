@@ -16,7 +16,7 @@
 
 </div>
  
-<a align="center"display = "online-block" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho72.gif></a>
+<a align= "center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho71.gif></a>
 <div align= "center" display = "online-block" ><br>
 <img align="center" alt="hanna-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="hanna-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
