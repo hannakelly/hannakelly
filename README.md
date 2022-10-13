@@ -14,6 +14,7 @@
   <a align="left" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho05.gif></a>
   <a href="https://github.com/hannakelly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hannakelly&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img src="mundo/universo062.gif" alt="universo062">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannakelly&layout=compact&langs_count=7&theme=synthwave"/> 
   
   <a href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho71.gif></a>
