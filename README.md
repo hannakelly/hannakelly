@@ -3,9 +3,9 @@
  - Fortaleza - CE 
  - Cursando Engenharia de Software 
  - Back - end 
-##
 
-CONTATOS 
+
+## CONTATOS 
 
 <a href="linkedin.com/in/hanna-kelly-743241204" alt="Linkedin" target="_blank">
   	<img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -13,7 +13,7 @@ CONTATOS
 <a href="#hannafc_#8837" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
-<a href="hanna.kellyfc@gmail.com" alt="Gmail" target="_blank">
+<a href="mailto:hanna.kellyfc@gmail.com" alt="Gmail" target="_blank">
  <img src =" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >
 </a>
 
