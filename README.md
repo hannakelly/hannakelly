@@ -4,9 +4,9 @@
  - Cursando Engenharia de Software 
  - Back - end 
 
-
-## CONTATOS 
 <div align="center">
+## CONTATOS 
+
 <a href="linkedin.com/in/hanna-kelly-743241204" alt="Linkedin" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
