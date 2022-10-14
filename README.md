@@ -17,8 +17,7 @@
  <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >
 </a>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hannakelly&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
