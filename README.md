@@ -1,13 +1,23 @@
 ### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋
 
+ - Fortaleza - CE 
+ - Cursando Engenharia de Software 
+ - Back - end 
+##
 
-                                     - 🔭 A procura de uma primeira oportunidade na área de TI
-                                     - 🌱 Estou cursando Engenharia de Software 
-                                     - FUTURAMENTE BACK-END :D
+CONTATOS 
 
-<div align="center">
-<a align="center" href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra06.gif></a>
-</div>
+<a href="linkedin.com/in/hanna-kelly-743241204" alt="Linkedin" target="_blank">
+  	<img https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+</a>
+<a href="#hannafc_#8837" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a>
+<a href="hanna.kellyfc@gmail.com" target="_blank">
+ <img https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
+
+
 
 
 <div align="center">
