@@ -6,7 +6,7 @@
 
 
 ## CONTATOS 
-
+<div align="center">
 <a href="linkedin.com/in/hanna-kelly-743241204" alt="Linkedin" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
@@ -16,7 +16,7 @@
 <a href="mailto:hanna.kellyfc@gmail.com" alt="Gmail" target="_blank">
  <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >
 </a>
-
+</div>
 
 
 
@@ -24,7 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hannakelly&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannakelly&layout=compact&langs_count=7&theme=synthwave"/> 
   
-  <a href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/desenho/desenho71.gif></a>
 
    
   <img align= "center" alt="hanna-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
