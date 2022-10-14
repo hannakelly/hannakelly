@@ -17,8 +17,11 @@
  <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >
 </a>
 </div>
-
-
+ 
+ <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hannakelly&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannakelly&layout=compact&langs_count=7&theme=synthwave"/> 
+  
 ## CONHECIMENTOS 
 
 <img align= "center" alt="hanna-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,13 +34,6 @@
   <img align= "center"  alt="hanna-c#" height="60" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align= "center"  alt="hanna-.net" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
-  
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hannakelly&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannakelly&layout=compact&langs_count=7&theme=synthwave"/> 
-  
-
    
   
 
