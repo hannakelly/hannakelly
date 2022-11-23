@@ -1,11 +1,11 @@
-### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋
+### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋 🧑‍💻
 
- - Fortaleza - CE 
- - Cursando Engenharia de Software 
- - Back - end 
+ 📍 Fortaleza - CE 
+ 📚 Cursando Engenharia de Software 
+ 💻 Back - end 
 
 
-## CONTATOS 
+## CONTATOS 👤
 <div align="center">
 <a href="linkedin.com/in/hanna-kelly-743241204" alt="Linkedin" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
