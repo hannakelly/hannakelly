@@ -1,7 +1,9 @@
 ### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋 🧑‍💻
 
  📍 Fortaleza - CE 
+
  📚 Cursando Engenharia de Software 
+
  💻 Back - end 
 
 
