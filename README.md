@@ -2,9 +2,9 @@
 
  📍 Fortaleza - CE 
 
- 📚 Cursando Engenharia de Software 
+ 📚 Acadêmica em Engenharia de Software 
 
- 💻 Back - end - C#
+ 💻 Back-end 
 
 
 ## CONTATOS 👤
