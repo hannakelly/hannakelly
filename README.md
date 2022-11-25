@@ -4,7 +4,7 @@
 
  📚 Cursando Engenharia de Software 
 
- 💻 Back - end 
+ 💻 Back - end - C#
 
 
 ## CONTATOS 👤
