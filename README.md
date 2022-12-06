@@ -1,4 +1,4 @@
-### Olá, meu nome é Hanna Kelly e aqui você esta entrando em meu mundo convertido em códigos !!👋 🧑‍💻
+### Olá, meu nome é Hanna Kelly e seja bem vindo!! :speech_balloon:👋💻:cyclone:
 
  📍 Fortaleza - CE 
 
