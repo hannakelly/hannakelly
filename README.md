@@ -5,7 +5,7 @@
  📚 Acadêmica em Engenharia de Software 
 
  💻 Back-end 
-    Foco em C# e .NET 
+    
 
 
 ## CONTATOS 👤 :speech_balloon:
