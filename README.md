@@ -1,6 +1,6 @@
 ### Olá, meu nome é Hanna Kelly e seja bem vindo!! :speech_balloon:👋💻:cyclone:
 
- 📍 Fortaleza - CE 
+ 📍 Aveiro - Portugal 
 
  📚 Acadêmica em Engenharia de Software 
 
