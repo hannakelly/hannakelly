@@ -4,7 +4,7 @@
 
  📚 Acadêmica em Engenharia de Software 
 
- 💻 Back-end 
+ 💻 QA - Automation
     
 
 
